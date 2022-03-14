@@ -23,8 +23,10 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+This app runs a cron job on some specific company's career page at Noon and 5 pm (COB) every day to execute a web crawler for job openings that match the search keywords.
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+It also notifies me upon getting a match.
+
 
 ## Installation
 
